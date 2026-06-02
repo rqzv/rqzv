@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
@@ -7,11 +6,7 @@
 
 ###
 
-<p align="left">I'm rqzv<br><br>- 📚 Currently learning JS</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/exacerbyte/exacerbyte/snake-output/snake.svg" alt="Snake animation" />
+<p align="left">I'm rqzv<br><br>- 📚 Currently learning JS and Discord.js<br>-  🤖 Building "Sphere". A free, no paywall Discord bot</p>
 
 ###
 
@@ -44,11 +39,14 @@
 ###
 
 <div align="left">
+  <a href="https://discord.gg/AYYbFguJtA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
   <a href="https://x.com/rqzvSOL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://discord.gg/AYYbFguJtA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://bsky.app/profile/rqzv.bsky.social" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
   </a>
 </div>
 
