@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm rqzv<br><br>- 📚 Currently learning JS and Discord.js<br>-  🤖 Building "Sphere". A free, no paywall Discord bot</p>
+<p align="left">I'm rqzv<br><br>- 📚 Currently learning JS and Discord.js<br>-  🤖 Building "Aevo". A free, no paywall Discord bot</p>
 
 ###
 
